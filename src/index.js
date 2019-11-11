@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import App from './components/App';
 
-const element = document.createElement('p');
-element.innerText = 'Hello world';
-document.querySelector('body').append(element);
+ReactDOM.render(
+  <App />,
+  document.getElementById('root')
+)
