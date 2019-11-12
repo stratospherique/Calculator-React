@@ -5,33 +5,33 @@ class ButtonPanel extends React.Component {
   render() {
     return (
       <div id="button-panel">
-        <div class="group">
-          <Button name="AC" />
-          <Button name="+/-" />
-          <Button name="%" />
+        <div className="group">
+          <Button name="AC" color="#E0E0E0" />
+          <Button name="+/-" color="#E0E0E0" />
+          <Button name="%" color="#E0E0E0" />
           <Button name="+" />
         </div>
-        <div class="group">
-          <Button name="7" />
-          <Button name="8" />
-          <Button name="9" />
-          <Button name="X" />
+        <div className="group">
+          <Button name="7" color="#E0E0E0" />
+          <Button name="8" color="#E0E0E0" />
+          <Button name="9" color="#E0E0E0" />
+          <Button name="x" />
         </div>
-        <div class="group">
-          <Button name="4" />
-          <Button name="5" />
-          <Button name="6" />
+        <div className="group">
+          <Button name="4" color="#E0E0E0" />
+          <Button name="5" color="#E0E0E0" />
+          <Button name="6" color="#E0E0E0" />
           <Button name="-" />
         </div>
-        <div class="group">
-          <Button name="1" />
-          <Button name="2" />
-          <Button name="3" />
+        <div className="group">
+          <Button name="1" color="#E0E0E0" />
+          <Button name="2" color="#E0E0E0" />
+          <Button name="3" color="#E0E0E0" />
           <Button name="+" />
         </div>
-        <div class="group">
-          <Button name="0" />
-          <Button name="." />
+        <div className="group">
+          <Button name="0" wide={true} color="#E0E0E0" />
+          <Button name="." color="#E0E0E0" />
           <Button name="=" />
         </div>
       </div>
