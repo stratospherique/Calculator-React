@@ -9,7 +9,7 @@ class ButtonPanel extends React.Component {
           <Button name="AC" color="#E0E0E0" />
           <Button name="+/-" color="#E0E0E0" />
           <Button name="%" color="#E0E0E0" />
-          <Button name="+" />
+          <Button name="÷" />
         </div>
         <div className="group">
           <Button name="7" color="#E0E0E0" />
