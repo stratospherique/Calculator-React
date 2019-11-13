@@ -2,13 +2,16 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 class Button extends React.Component {
+  handleClick = () => {
+    this.props.clickHandler(this.props.name);
+  }
   render() {
     const styler = {
       backgroundColor: this.props.color,
-      width: this.props.wide ? '50%' : null
+      width: this.props.wide ? '50%' : null,
     }
     return (
-      <button style={styler}>
+      <button style={styler} onClick={this.handleClick}>
         {this.props.name}
       </button>
     )
