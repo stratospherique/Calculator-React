@@ -13,11 +13,12 @@ HTML | CSS(SASS) | Javascript | React
 * This design of this project is an assignment that falls under microverse's React & Redux curriculium:
   - [link to the assignment](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/44896082/)
 
-### Live Version (Netlify)
+### Live Version (Netlify & heroku)
 
 ![image](public/UI.png)
 
-**https://gifted-bose-6eb952.netlify.com/**
+- **Netlify** https://gifted-bose-6eb952.netlify.com/
+- **Heroku** https://calculator-microverse.herokuapp.com/
 
 ### Contributors (for more Info)
 
