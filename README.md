@@ -48,7 +48,7 @@ npm start
 
 ## Author
 
-:male_detective: Elizabeth Villalejos
+:male_detective: Ahmed Mahfoudh
 
 - [Github](https://github.com/stratospherique)
 - [Linkedin](https://www.linkedin.com/in/ahmed-mahfoudh/)
