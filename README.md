@@ -65,4 +65,5 @@ Feel free to check the [issues page](issues/).
 
 Give a ⭐️ if you like this project!
 
-> “There is no exercise better for the heart than reaching down and lifting people up.” John Holmes
+> “There is no exercise better for the heart than reaching down and lifting people up.” 
+John Holmes
